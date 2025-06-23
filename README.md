@@ -6,7 +6,8 @@ This project uses deep learning (DenseNet121) to detect lung cancer from CT scan
 
 ## 🔍 Project Overview
 
-- 📚 **Dataset**: [LUNA16](https://luna16.grand-challenge.org/)
+- 📚 **Dataset**: (https://luna16.grand-challenge.org/)
+- 
                    (https://www.kaggle.com/datasets/shubham2703/lung-cancer-image-dataset)
 - 🧠 **Model**: DenseNet121 (pretrained on ImageNet)
 - 📊 **Task**: Binary Classification – Cancer / No Cancer
@@ -70,8 +71,3 @@ Image	Prediction
 2non.png	✅ No Cancer
 4canc.png	✅ Cancer Detected!
 
-
-🧪 Testing
-![Screenshot (282)](https://github.com/user-attachments/assets/f52fc89c-826b-4f49-a8ed-cb8cb14f8fb6)
-[Screenshot (284)](https://github.com/user-attachments/assets/eb5bc2d6-c594-450e-820e-efc4dab051fc)
-![Screenshot (283)](https://github.com/user-attachments/assets/111b3e52-712f-4fb7-9eff-6f887c08bf19)
